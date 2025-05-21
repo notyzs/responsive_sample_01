@@ -21,7 +21,7 @@ header {
 
 
 header h1 {
-  font-size:2rem;
+  font-size: 2rem;
     /* text-align: center;
     padding: 1rem; */
   }
@@ -116,9 +116,9 @@ footer {
      font-size: 4rem;
   }
   
-  /* main {
+  main {
     grid-template-columns: 1fr 1fr;
-  } */
+  } 
 
   .sec01 {
     grid-row-start: 1;
